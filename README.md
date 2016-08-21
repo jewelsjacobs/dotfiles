@@ -1,5 +1,7 @@
 # Dotfiles for Neovim, Fish Shell, iTerm and Mac OS X
 
+![NeoVim](images/nvim.png)
+
 Modified from [these great dotfiles](https://github.com/mhartington/dotfiles)
 
 ## Requires
@@ -23,7 +25,7 @@ set -U TERM xterm-256color-italic
 set -U EDITOR nvim
 ```
 
-- Python 2 & 3:
+- Python 2 & 3
 
 ```
 $ brew install python
@@ -33,7 +35,7 @@ $ brew install python3
 - [Setup Neovim for Python](https://github.com/zchee/deoplete-jedi/wiki/Setting-up-Python-for-Neovim)
 - [Install Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
-After running the Nerd Font install script, set one of the Nerd Font Fonts as your iTerm Fonts.  I use Meslo LG S Regular for Powerline Nerd Font 14pt
+After running the Nerd Font install script, set:sett one of the Nerd Font Fonts as your iTerm Fonts.  I use Meslo LG S Regular for Powerline Nerd Font 14pt
 
 ![Meslo LG S Regular for Powerline Nerd Font 14pt](images/Nerdfont.png)
 
