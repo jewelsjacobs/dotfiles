@@ -15,7 +15,7 @@
 [github]
   user = jewelsjacobs
 [core]
-    editor = nvim
+  editor = nvim
 [color "diff-highlight"]
   oldNormal = "red bold"
   oldHighlight = "red bold 52"
