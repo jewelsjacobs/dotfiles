@@ -53,9 +53,11 @@ Fire up neovim:
 
 Fix python errors:
 
-```cd /tmp; git clone https://github.com/vim/vim.git; cd vim
+```
+cd /tmp; git clone https://github.com/vim/vim.git; cd vim
 ./configure --enable-pythoninterp --prefix=/usr
-make; sudo make install```
+make; sudo make install
+```
 
 When it starts a whole bunch of plugins will load and all should go well.  If not, you'll have to do some debugging.
 Make sure to `:set spell` to get rid of the
